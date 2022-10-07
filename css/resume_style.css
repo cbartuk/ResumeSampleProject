@@ -1,0 +1,42 @@
+#content-left{
+float: left;
+width: 10%;
+height: 1000px;
+margin-right: 50px;
+}
+
+#content-right{
+width: 40%;
+}
+
+.italics{
+    color: grey;
+}
+
+.decks{
+    line-height: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#header{
+    line-height: 0px;
+}
+
+p{
+    font-family:cursive ;
+    font-size: 15px;
+}
+
+.br-span{
+    margin-right: 15px;
+}
+
+h1{
+    font-size: 50px;
+}
